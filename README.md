@@ -1,0 +1,1 @@
+A subscription file of Chrome/Firefox extension [uBlackList](https://github.com/iorate/uBlacklist) 
