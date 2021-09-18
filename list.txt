@@ -1,3 +1,4 @@
 *://www.gitmemory.com/*
 *://githubmemory.com/*
 *://www.bountysource.com/*
+*://www.coder.work/*
