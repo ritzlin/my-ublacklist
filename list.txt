@@ -1,8 +1,10 @@
-*://www.gitmemory.com/*
 *://githubmemory.com/*
+*://newbedev.com/*
+*://www.bolafans.com/*
 *://www.bountysource.com/*
+*://www.codegrepper.com/*
 *://www.coder.work/*
 *://www.g408.com/*
-*://zh.wikiwomens.com/*
+*://www.gitmemory.com/*
 *://www.nkswoosh.com/*
-*://www.bolafans.com/*
+*://zh.wikiwomens.com/*
