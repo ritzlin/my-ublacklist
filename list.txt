@@ -1,5 +1,6 @@
 *://githubmemory.com/*
 *://newbedev.com/*
+*://reposhub.com/*
 *://www.bolafans.com/*
 *://www.bountysource.com/*
 *://www.codegrepper.com/*
