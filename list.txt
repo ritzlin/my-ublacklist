@@ -1,6 +1,7 @@
 *://convertf.com/*
 *://githubmemory.com/*
 *://newbedev.com/*
+*://qastack.cn/*
 *://reposhub.com/*
 *://www.bolafans.com/*
 *://www.bountysource.com/*
