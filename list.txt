@@ -1,3 +1,4 @@
+*://convertf.com/*
 *://githubmemory.com/*
 *://newbedev.com/*
 *://reposhub.com/*
