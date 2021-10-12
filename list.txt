@@ -1,4 +1,5 @@
 *://convertf.com/*
+*://giters.com/*
 *://githubmemory.com/*
 *://newbedev.com/*
 *://qastack.cn/*
