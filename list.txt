@@ -1,4 +1,5 @@
 *://convertf.com/*
+*://dapper-tutorial.net/*
 *://giters.com/*
 *://githubmemory.com/*
 *://newbedev.com/*
@@ -13,3 +14,4 @@
 *://www.it-swarm.cn/*
 *://www.nkswoosh.com/*
 *://zh.wikiwomens.com/*
+*://zzzprojects.com/*
