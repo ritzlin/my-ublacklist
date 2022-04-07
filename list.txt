@@ -1,6 +1,7 @@
 *://coderedirect.com/*
 *://convertf.com/*
 *://dapper-tutorial.net/*
+*://errorsfixing.com/*
 *://giters.com/*
 *://githubmemory.com/*
 *://newbedev.com/*
@@ -10,10 +11,10 @@
 *://www.bountysource.com/*
 *://www.codegrepper.com/*
 *://www.coder.work/*
+*://www.ecityworks.com/*
 *://www.g408.com/*
 *://www.gitmemory.com/*
 *://www.it-swarm.cn/*
 *://www.nkswoosh.com/*
 *://zh.wikiwomens.com/*
 *://zzzprojects.com/*
-*://www.ecityworks.com/*
