@@ -18,3 +18,4 @@
 *://www.nkswoosh.com/*
 *://zh.wikiwomens.com/*
 *://zzzprojects.com/*
+*://www.angularfix.com/*
