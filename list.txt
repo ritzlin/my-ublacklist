@@ -4,6 +4,7 @@
 *://errorsfixing.com/*
 *://giters.com/*
 *://githubmemory.com/*
+*://itecnote.com/*
 *://newbedev.com/*
 *://qastack.cn/*
 *://reposhub.com/*
