@@ -9,6 +9,7 @@
 *://qastack.cn/*
 *://reposhub.com/*
 *://solveforum.com/*
+*://string.quest/*
 *://www.angularfix.com/*
 *://www.bolafans.com/*
 *://www.bountysource.com/*
