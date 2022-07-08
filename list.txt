@@ -6,6 +6,7 @@
 *://githubmemory.com/*
 *://itecnote.com/*
 *://newbedev.com/*
+*://pianshen.com/*
 *://qastack.cn/*
 *://reposhub.com/*
 *://solveforum.com/*
