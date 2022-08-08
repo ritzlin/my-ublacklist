@@ -10,6 +10,7 @@
 *://pianshen.com/*
 *://qastack.cn/*
 *://reposhub.com/*
+*://smartdevpreneur.com/*
 *://solveforum.com/*
 *://string.quest/*
 *://www.angularfix.com/*
