@@ -1,3 +1,4 @@
+*://codehunter.cc/*
 *://coderedirect.com/*
 *://convertf.com/*
 *://dapper-tutorial.net/*
@@ -5,6 +6,7 @@
 *://giters.com/*
 *://githubmemory.com/*
 *://itecnote.com/*
+*://lightrun.com/*
 *://newbedev.com/*
 *://newdevzone.com/*
 *://pianshen.com/*
@@ -31,5 +33,3 @@
 *://yo.zgserver.com/*
 *://zh.wikiwomens.com/*
 *://zzzprojects.com/*
-*://lightrun.com/*
-*://codehunter.cc/*
