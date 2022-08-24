@@ -25,6 +25,7 @@
 *://www.gitmemory.com/*
 *://www.it-swarm.cn/*
 *://www.nkswoosh.com/*
+*://www.querythreads.com/*
 *://www.superweb999.com/*
 *://yo.zgserver.com/*
 *://zh.wikiwomens.com/*
